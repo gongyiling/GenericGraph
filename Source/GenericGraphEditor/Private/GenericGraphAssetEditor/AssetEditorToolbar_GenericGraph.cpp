@@ -1,4 +1,6 @@
 #include "GenericGraphAssetEditor/AssetEditorToolbar_GenericGraph.h"
+
+#include "EditorStyleSet.h"
 #include "GenericGraphAssetEditor/AssetEditor_GenericGraph.h"
 #include "GenericGraphAssetEditor/EditorCommands_GenericGraph.h"
 #include "GenericGraphAssetEditor/GenericGraphEditorStyle.h"

@@ -1,4 +1,6 @@
 #include "GenericGraphAssetEditor/SEdNode_GenericGraphNode.h"
+
+#include "EditorStyleSet.h"
 #include "GenericGraphEditorPCH.h"
 #include "GenericGraphAssetEditor/Colors_GenericGraph.h"
 #include "SLevelOfDetailBranchNode.h"
